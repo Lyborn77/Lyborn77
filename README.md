@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amukelani
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development on freecodecamp.org
 - 💞️ I’m looking to collaborate on anything that involves websites 
 - 📫 How to reach me ...
