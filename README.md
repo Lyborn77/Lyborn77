@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amukelani
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development on freecodecamp.org
+- 🌱 I have certificates in web development & working on my own projects
 - 💞️ I’m looking to collaborate on anything that involves websites 
 - 📫 How to reach me ...
 
